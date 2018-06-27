@@ -1,6 +1,11 @@
-# ios-calendar
+## README
+Thanks for taking a look at my code! I had a lot of fun building the calendar app and doing the coding challenge.
 
-## Todo
+## iOS Calendar
+Live Backend: 
+To test the entire app, build the project in xcode.
+
+### Todo
 - [X] Click on a day box, and be able to create a new event on that day which gets sent to the backend on clicking submit. 
 - [X] The form should have start time, end time, description and submit. 
 - [X] Once submit is clicked the form should disappear.
